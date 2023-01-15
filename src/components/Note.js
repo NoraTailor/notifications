@@ -152,6 +152,10 @@ const Wrapper = styled.div`
 	}
 
 	@media screen and (min-width: 768px) {
+		.liked-img {
+			left: 6rem;
+			top: 1rem;
+		}
 	}
 `;
 
